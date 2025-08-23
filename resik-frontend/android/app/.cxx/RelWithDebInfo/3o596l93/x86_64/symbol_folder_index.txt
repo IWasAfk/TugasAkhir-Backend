@@ -1,0 +1,1 @@
+/Users/700632/Development/projects/resik-main/resik-frontend/build/app/intermediates/cxx/RelWithDebInfo/3o596l93/obj/x86_64

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170939507034",
+    "project_id": "resik-sampah",
+    "storage_bucket": "resik-sampah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170939507034:android:e11d7b419d6054e4c7d363",
+        "android_client_info": {
+          "package_name": "com.example.resik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZnxIq1RkZ9vRkRBssHFFvtOatOjX6xH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170939507034:android:649ae6e3dc883b27c7d363",
+        "android_client_info": {
+          "package_name": "resik.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZnxIq1RkZ9vRkRBssHFFvtOatOjX6xH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
